@@ -1,1 +1,1 @@
-discordbot: python oyaji.py
+discordbot: oyaji.py
